@@ -8,3 +8,4 @@ INFORME N°3
 3.__¿Qué es el N50, L50, NG50?__ N50: es una forma de medir el proyecto de secuenciasion para poder obtener este valor se ordenan los contigs de menor a mayor, al sumarlos se obtiene un numero, luego el N50 se define como la suma de los contigs que otorgan el 50% del valor de el numero.
 L50: se define como los contigs que estan sobre el 50% de la suma de todos los contigs.
 NG50: es lo mismo que el N50 solo que con parametros comparativos más eficientes 
+3.__¿Cuál es el propósito de calcular estas estadísticas?__  las estadisticas ayudan tener una idea sobre los contigs o reads dependiendo del largo del genoma
