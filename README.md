@@ -15,8 +15,11 @@ NG50: es lo mismo que el N50 solo que con parametros comparativos más eficiente
 5.__¿Cuál es el genoma que escogiste? Adjunta la referencia.__ ![BIOINF-3](perro.PNG)
 
 6.__¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?__  el paper de secuenciacion genomica "lindbladtoh 2005"  indica que el N50 es de  123 kb y el NG50 es de 45.0 Mb
+
 7.__¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?__ se utilizo el metodo WGS shotgun 
+
 8.__¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?__ el perro comun en el paper se secuenncio el boxer en especifico, tiene 39 pares de cromosomas y tiene un tamañao de 2254.63 Mb
+
 ## Parte 2: Prediccion de genes
 1.__¿Cuántos ORF o genes encontró ORFfinder?__ ![BIOINF-3](ORF.PNG)
 
